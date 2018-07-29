@@ -4,7 +4,8 @@
   "description": "Demo github client written in JS",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "dev": "webpack-dev-server --mode development"
   },
   "repository": {
     "type": "git",
